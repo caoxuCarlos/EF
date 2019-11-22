@@ -93,6 +93,10 @@ EF使用[蒙特卡洛方法](https://en.wikipedia.org/wiki/Monte_Carlo_method), 
 
 然后把点和原点连线, 斜率就代表了该组合每摄入 1g 脂肪的同时摄入多少克的蛋白质. EF "喜欢蛋白质, 讨厌脂肪", 所以它要选择斜率最大的组合, 也就是在以摄入1g 脂肪为代价, 所能获得最多克蛋白质的组合. 
 
+## 欢迎您提出宝贵的建议
+
+<img src="https://github.com/caoxuCarlos/EF/raw/master/pictures/feedback_qrcode.png" width="271">
+
 ## 感谢小伙伴对本项目提供的帮助
 
 @ 杨雅清
