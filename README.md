@@ -87,7 +87,7 @@ linux 用户下载地址:
 
 EF使用[蒙特卡洛方法](https://en.wikipedia.org/wiki/Monte_Carlo_method), 随机生成 20000 组权重向量, 每一个向量对应一个组合, 每个组合都在下图中用一个圆点表示(为了清晰起见, 下图只展示300个结果):
 
-![](https://github.com/caoxuCarlos/EF/raw/master/pictures/mc_plot_explain.png)
+<img src="https://github.com/caoxuCarlos/EF/raw/master/pictures/mc_plot_explain.png" width="500">
 
 从这些结果当中, 挑选出`碳水-蛋白质供能比`与所要求的比例相差不到 5% 的所有结果. 就是图中颜色最深的那些点. 
 
