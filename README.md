@@ -43,7 +43,7 @@ linux 用户下载地址:
 
 ![](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/003.png)
 
-接着, 我在下面这张表里选择我想要的食物:
+接着, 我在下面这张表里选择我想要的食物([点击这里](https://github.com/caoxuCarlos/EF/raw/master/foodlist.xlsx)下载图中表格):
 
 ![](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/004.png)
 
