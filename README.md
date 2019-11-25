@@ -33,19 +33,19 @@ linux 用户下载地址:
 
 打开软件, 界面应该是这样:
 
-pass 001
+![](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/001.png)
 
 比如我一天需要的热量是 2800 大卡, 那么我在`今天所需总能量`输入2800. 然后点击`显示推荐`.
 
-pass 002
+![](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/002.png)
 
 先计算早餐, 我把`早餐`后面的 840 复制, 粘贴到下面的`该餐总热量`中. 我希望碳水化合物提供的能量是蛋白质所提供能量的 2.5 倍左右, 于是把 2.5 输入`碳水/蛋白质`中. 我还希望这顿饭提供的蛋白质在 30g~50g 之间, 于是我在`最少蛋白质克数`输入30, 在`最多蛋白质克数`输入50. 
 
-pass 003
+![](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/003.png)
 
-接着, 我在下面这章表里选择我想要的食物:
+接着, 我在下面这张表里选择我想要的食物:
 
-pass 004
+![](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/004.png)
 
 我觉得主食可以是米饭和红薯, 随便哪个都行, 于是我在`主食`中输入:`米饭,红薯`. (中间的符号无所谓输入`米饭&红薯`或者`米饭+红薯`都是一样的)
 
@@ -55,27 +55,27 @@ pass 004
 
 在`脂肪`中输入:`葵花籽油,核桃`
 
-pass 005
+![pass 005](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/005.png)
 
 然后点击一下旁边的`时间检测`. (因为这个程序的运算量很大, 可能需要算一会儿, 不过如果选择的组合合理, 通常也就是不到 3 秒的事情).
 
-pass 006
+![pass 006](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/006.png)
 
 我看一下最坏也就十分钟, 哪怕我选择组合实在不合理, 10分钟以后我也就知道 "我的选择不合理" 这个结果了, 所以我直接点击`开始计算`, 如果运算次数太多, 又不确定自己的组合合理, 不妨减少在`主食`, `肉蛋奶`, `蔬果`和`油脂`中输入的食物数量, 比如在每项里只输入一种. 
 
-pass 007
+![](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/007.png)
 
 事实上, 就算这个组合是我边写教程边随机写的, 我也只用 0.243 秒就做出了答案, 通常情况下还是很快的. 
 
 那我还想一口气把我一天的所有饮食都算出来, 我再算一个午餐为例: 
 
-我直接把午餐后面的 840 选中, 然后粘贴到`该餐总热量`中, 接着把选择的食物进行一些修改, 然后`时间检测`, 结果如图: 
+我直接把午餐后面的 840 选中, 然后粘贴到`该餐总热量`中, 接着把已经选择了的食物进行一些修改, 然后`时间检测`, 结果如图: 
 
-pass 008
+![](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/008.png)
 
 接着, 不用删除第一次输出的结果, 直接点击`开始计算`, 会发现第一次的结果并没有消失, 第二次结果直接出现在了第一次后面:
 
-pass 009
+![pass 009](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/009.png)
 
 然后重复晚饭和加餐的操作, 最后直接从输出框里把所有文字复制走就行了. 
 
@@ -83,7 +83,7 @@ pass 009
 
 上面的`输入今日所需总能量`不用输入, 也不用点击后面的计算, 你只要像下图这样输入就可以得到一个全天的食谱:
 
-pass 010
+![pass 010](https://github.com/caoxuCarlos/EF/raw/master/pictures/ef1.2/010.png)
 
 这次就是用了 12 秒才算出来的, 所以大家按下`开始计算`之后还是耐心等待一下吧. 
 
